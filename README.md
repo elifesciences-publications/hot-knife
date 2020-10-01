@@ -1,3 +1,6 @@
+This code is associated with the paper from Scheffer et al., "A connectome and analysis of the adult Drosophila central brain". eLife, 2020. http://doi.org/10.7554/eLife.57443
+
+
 # hot-knife
 
 Hot knife FIB-SEM slab series stitching pipeline.
